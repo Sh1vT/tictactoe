@@ -1,6 +1,7 @@
 # 🎮 Flutter TicTacToe
 
 A minimal and fun TicTacToe game built with Flutter. Enjoy a smooth UI with confetti celebrations on every win!  
+[Download APK](https://drive.google.com/file/d/1rUjFH2uEoQ1ezkye3fjQE6fUWRUbrukX/view?usp=sharing)
 
 ## ✨ Features
 - Classic 2-player TicTacToe
